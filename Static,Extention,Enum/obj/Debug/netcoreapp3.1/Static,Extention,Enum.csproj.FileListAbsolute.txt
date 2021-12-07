@@ -1,0 +1,14 @@
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Static,Extention,Enum\Static,Extention,Enum\bin\Debug\netcoreapp3.1\Static,Extention,Enum.exe
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Static,Extention,Enum\Static,Extention,Enum\bin\Debug\netcoreapp3.1\Static,Extention,Enum.deps.json
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Static,Extention,Enum\Static,Extention,Enum\bin\Debug\netcoreapp3.1\Static,Extention,Enum.runtimeconfig.json
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Static,Extention,Enum\Static,Extention,Enum\bin\Debug\netcoreapp3.1\Static,Extention,Enum.runtimeconfig.dev.json
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Static,Extention,Enum\Static,Extention,Enum\bin\Debug\netcoreapp3.1\Static,Extention,Enum.dll
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Static,Extention,Enum\Static,Extention,Enum\bin\Debug\netcoreapp3.1\Static,Extention,Enum.pdb
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Static,Extention,Enum\Static,Extention,Enum\obj\Debug\netcoreapp3.1\Static,Extention,Enum.csproj.AssemblyReference.cache
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Static,Extention,Enum\Static,Extention,Enum\obj\Debug\netcoreapp3.1\Static,Extention,Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Static,Extention,Enum\Static,Extention,Enum\obj\Debug\netcoreapp3.1\Static,Extention,Enum.AssemblyInfoInputs.cache
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Static,Extention,Enum\Static,Extention,Enum\obj\Debug\netcoreapp3.1\Static,Extention,Enum.AssemblyInfo.cs
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Static,Extention,Enum\Static,Extention,Enum\obj\Debug\netcoreapp3.1\Static,Extention,Enum.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Static,Extention,Enum\Static,Extention,Enum\obj\Debug\netcoreapp3.1\Static,Extention,Enum.dll
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Static,Extention,Enum\Static,Extention,Enum\obj\Debug\netcoreapp3.1\Static,Extention,Enum.pdb
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Static,Extention,Enum\Static,Extention,Enum\obj\Debug\netcoreapp3.1\Static,Extention,Enum.genruntimeconfig.cache
